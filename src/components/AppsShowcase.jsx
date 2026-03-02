@@ -128,14 +128,14 @@ export default function AppsShowcase() {
               ))}
             </div>
             <div className="apps__featured-cta">
-              <a href="#contact" className="btn btn-primary btn-lg">
-                View on Shopify App Store
+              <a href="#portfolio" className="btn btn-primary btn-lg">
+                View Our Portfolio
                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
-                  <path d="M5 15l10-10m0 0H8m7 0v7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                  <path d="M4 10h12m0 0l-4-4m4 4l-4 4" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                 </svg>
               </a>
               <a href="#contact" className="btn btn-secondary btn-lg">
-                Book a Demo
+                Get In Touch
               </a>
             </div>
           </div>

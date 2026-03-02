@@ -5,6 +5,7 @@ import SocialProof from './components/SocialProof'
 import AppsShowcase from './components/AppsShowcase'
 import HowWeHelp from './components/HowWeHelp'
 import WhyChooseUs from './components/WhyChooseUs'
+import Portfolio from './components/Portfolio'
 import About from './components/About'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
@@ -49,6 +50,7 @@ export default function App() {
         <Hero />
         <SocialProof />
         <AppsShowcase />
+        <Portfolio />
         <HowWeHelp />
         <WhyChooseUs />
         <About />

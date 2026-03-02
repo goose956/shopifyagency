@@ -22,6 +22,7 @@ export default function Header() {
 
   const navLinks = [
     { label: 'Apps', href: '#apps' },
+    { label: 'Portfolio', href: '#portfolio' },
     { label: 'How We Help', href: '#how-we-help' },
     { label: 'Why Us', href: '#why-us' },
     { label: 'About', href: '#about' },
