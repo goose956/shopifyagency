@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react'
 import './Header.css'
 
+import Logo from './Logo'
+
 export default function Header() {
   const [scrolled, setScrolled] = useState(false)
   const [mobileOpen, setMobileOpen] = useState(false)
@@ -35,10 +37,7 @@ export default function Header() {
     <header className={`header${scrolled ? ' header--scrolled' : ''}`}>
       <div className="container header__inner">
         <a href="#" className="header__logo" aria-label="Home">
-          <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <rect width="32" height="32" rx="8" fill="#16A34A"/>
-            <path d="M10 22V10h4l4 6 4-6h4v12h-4v-7l-4 5-4-5v7h-4z" fill="white"/>
-          </svg>
+          <Logo size={32} />
           <span className="header__brand">CodeStudio</span>
         </a>
 

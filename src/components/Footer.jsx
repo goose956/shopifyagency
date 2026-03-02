@@ -1,4 +1,5 @@
 import './Footer.css'
+import Logo from './Logo'
 
 export default function Footer() {
   const currentYear = new Date().getFullYear()
@@ -9,10 +10,7 @@ export default function Footer() {
         <div className="footer__top">
           <div className="footer__brand">
             <a href="#" className="footer__logo">
-              <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
-                <rect width="32" height="32" rx="8" fill="#16A34A"/>
-                <path d="M10 22V10h4l4 6 4-6h4v12h-4v-7l-4 5-4-5v7h-4z" fill="white"/>
-              </svg>
+              <Logo size={28} />
               <span>CodeStudio</span>
             </a>
             <p className="footer__tagline">

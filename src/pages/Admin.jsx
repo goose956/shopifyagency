@@ -1,5 +1,6 @@
 import { useState, useEffect, useCallback } from 'react'
 import { useNavigate } from 'react-router-dom'
+import Logo from '../components/Logo'
 import './Admin.css'
 
 export default function Admin() {
@@ -108,10 +109,7 @@ export default function Admin() {
       {/* Sidebar */}
       <aside className="admin__sidebar">
         <div className="admin__sidebar-header">
-          <svg width="28" height="28" viewBox="0 0 32 32" fill="none">
-            <rect width="32" height="32" rx="8" fill="#16A34A"/>
-            <path d="M10 22V10h4l4 6 4-6h4v12h-4v-7l-4 5-4-5v7h-4z" fill="white"/>
-          </svg>
+          <Logo size={28} />
           <span className="admin__sidebar-brand">Admin</span>
         </div>
 

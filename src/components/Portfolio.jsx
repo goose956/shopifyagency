@@ -11,7 +11,9 @@ const apps = [
     icon: (
       <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
         <rect width="32" height="32" rx="8" fill="#16A34A" />
-        <path d="M10 22V10h4l4 6 4-6h4v12h-4v-7l-4 5-4-5v7h-4z" fill="white" />
+        <path d="M13 9L7 16l6 7" stroke="white" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" fill="none" />
+        <path d="M19 9l6 7-6 7" stroke="white" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" fill="none" />
+        <line x1="17.5" y1="8" x2="14.5" y2="24" stroke="white" strokeWidth="2" strokeLinecap="round" opacity="0.7" />
       </svg>
     ),
     progress: 80,
