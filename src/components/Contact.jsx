@@ -60,20 +60,7 @@ export default function Contact() {
                   <a href="mailto:hello@merchantkit.dev" className="contact__detail-value">hello@merchantkit.dev</a>
                 </div>
               </div>
-              <div className="contact__detail">
-                <div className="contact__detail-icon">
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
-                    <rect x="3" y="4" width="18" height="18" rx="2" ry="2" stroke="currentColor" strokeWidth="2"/>
-                    <line x1="16" y1="2" x2="16" y2="6" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/>
-                    <line x1="8" y1="2" x2="8" y2="6" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/>
-                    <line x1="3" y1="10" x2="21" y2="10" stroke="currentColor" strokeWidth="2"/>
-                  </svg>
-                </div>
-                <div>
-                  <p className="contact__detail-label">Book a call</p>
-                  <a href="#" className="contact__detail-value">Schedule a 15-min intro</a>
-                </div>
-              </div>
+
             </div>
           </div>
 

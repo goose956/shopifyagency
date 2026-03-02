@@ -25,7 +25,7 @@ export default function Hero() {
               </svg>
             </a>
             <a href="#contact" className="btn btn-secondary btn-lg">
-              Book a Demo
+              Get In Touch
             </a>
           </div>
         </div>
