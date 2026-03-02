@@ -13,7 +13,7 @@ export default function Footer() {
                 <rect width="32" height="32" rx="8" fill="#16A34A"/>
                 <path d="M10 22V10h4l4 6 4-6h4v12h-4v-7l-4 5-4-5v7h-4z" fill="white"/>
               </svg>
-              <span>MerchantKit</span>
+              <span>CodeStudio</span>
             </a>
             <p className="footer__tagline">
               AI-powered Shopify apps that drive revenue, save time, and help merchants grow.
@@ -49,7 +49,7 @@ export default function Footer() {
 
         <div className="footer__bottom">
           <p className="footer__copy">
-            &copy; {currentYear} MerchantKit. All rights reserved.
+            &copy; {currentYear} CodeStudio. All rights reserved.
           </p>
           <div className="footer__social">
             <a href="#" aria-label="Twitter/X" className="footer__social-link">
@@ -72,7 +72,7 @@ export default function Footer() {
 
         <div className="footer__disclaimer">
           <p>
-            MerchantKit is an independent software company and is not affiliated with, endorsed by, or sponsored by Shopify Inc. 
+            CodeStudio is an independent software company and is not affiliated with, endorsed by, or sponsored by Shopify Inc. 
             "Shopify" is a registered trademark of Shopify Inc. All product names, logos, and brands are property of their respective owners.
           </p>
         </div>

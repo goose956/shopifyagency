@@ -45,7 +45,7 @@ export default function Login() {
             <path d="M10 22V10h4l4 6 4-6h4v12h-4v-7l-4 5-4-5v7h-4z" fill="white"/>
           </svg>
           <h1 className="admin-login__title">Admin Login</h1>
-          <p className="admin-login__subtitle">MerchantKit Dashboard</p>
+          <p className="admin-login__subtitle">CodeStudio Dashboard</p>
         </div>
 
         {error && (

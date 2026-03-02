@@ -39,7 +39,7 @@ export default function Header() {
             <rect width="32" height="32" rx="8" fill="#16A34A"/>
             <path d="M10 22V10h4l4 6 4-6h4v12h-4v-7l-4 5-4-5v7h-4z" fill="white"/>
           </svg>
-          <span className="header__brand">MerchantKit</span>
+          <span className="header__brand">CodeStudio</span>
         </a>
 
         <nav className={`header__nav${mobileOpen ? ' header__nav--open' : ''}`}>
