@@ -46,22 +46,6 @@ export default function Contact() {
               Whether you want to explore our apps, need a custom solution, or just have a question
               — we'd love to hear from you.
             </p>
-
-            <div className="contact__details">
-              <div className="contact__detail">
-                <div className="contact__detail-icon">
-                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none">
-                    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                    <polyline points="22,6 12,13 2,6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                  </svg>
-                </div>
-                <div>
-                  <p className="contact__detail-label">Email us</p>
-                  <a href="mailto:hello@merchantkit.dev" className="contact__detail-value">hello@merchantkit.dev</a>
-                </div>
-              </div>
-
-            </div>
           </div>
 
           <form className="contact__form" onSubmit={handleSubmit}>
