@@ -76,44 +76,12 @@ export default function AppsShowcase() {
 
         <div className="apps__featured">
           <div className="apps__featured-visual">
-            <div className="apps__mockup">
-              <div className="apps__mockup-bar">
-                <span className="apps__dot" />
-                <span className="apps__dot" />
-                <span className="apps__dot" />
-              </div>
-              <div className="apps__mockup-body">
-                <div className="apps__mockup-sidebar">
-                  <div className="apps__mockup-nav-item apps__mockup-nav-item--active" />
-                  <div className="apps__mockup-nav-item" />
-                  <div className="apps__mockup-nav-item" />
-                  <div className="apps__mockup-nav-item" />
-                </div>
-                <div className="apps__mockup-main">
-                  <div className="apps__mockup-product">
-                    <div className="apps__mockup-img">
-                      <svg width="32" height="32" viewBox="0 0 24 24" fill="none">
-                        <rect x="3" y="3" width="18" height="18" rx="2" stroke="#16A34A" strokeWidth="1.5"/>
-                        <circle cx="8.5" cy="8.5" r="1.5" fill="#16A34A"/>
-                        <path d="M21 15l-5-5L5 21" stroke="#16A34A" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-                      </svg>
-                      <span>AI Generated</span>
-                    </div>
-                    <div className="apps__mockup-details">
-                      <div className="apps__mockup-line" style={{ width: '80%' }} />
-                      <div className="apps__mockup-line" style={{ width: '60%' }} />
-                      <div className="apps__mockup-line" style={{ width: '90%' }} />
-                      <div className="apps__mockup-line apps__mockup-line--accent" style={{ width: '35%' }} />
-                    </div>
-                  </div>
-                  <div className="apps__mockup-action">
-                    <span>Publish to Shopify</span>
-                    <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
-                      <path d="M2 8l4.5 4.5L14 3" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                    </svg>
-                  </div>
-                </div>
-              </div>
+            <div className="apps__screenshot-wrapper">
+              <img
+                src="/pod-screenshot.png"
+                alt="POD Design Generator - AI-powered print on demand product creation for Shopify"
+                className="apps__screenshot"
+              />
             </div>
           </div>
 
