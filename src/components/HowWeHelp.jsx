@@ -37,7 +37,7 @@ const pillars = [
       </svg>
     ),
     title: 'Scale Without Limits',
-    description: 'Launch products faster and grow your catalogue without the usual bottlenecks. Built for merchants who want to move quickly.',
+    description: 'Scale your catalogue and grow faster without the usual bottlenecks. Built for merchants who want to move quickly.',
   },
 ]
 

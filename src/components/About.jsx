@@ -16,8 +16,8 @@ export default function About() {
               writing copy, managing workflows — and decided to fix it.
             </p>
             <p className="about__text">
-              Our first app tackles print on demand, automating the entire product creation process with AI.
-              But that's just the start — we have more tools in active development, each designed to solve
+              Our first app — currently in development — tackles print on demand, automating the entire product creation
+              process with AI. And that's just the start. We have more tools on the roadmap, each designed to solve
               a specific, measurable problem for Shopify stores.
             </p>
             <p className="about__text">

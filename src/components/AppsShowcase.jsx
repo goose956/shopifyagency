@@ -37,7 +37,7 @@ const features = [
       </svg>
     ),
     title: 'One-Click Automation',
-    description: 'From idea to live product listing in minutes. Set preferences once and let the app handle the rest.',
+    description: 'From idea to product listing in minutes. Set your preferences once and let the app handle the rest.',
   },
   {
     icon: (
@@ -56,7 +56,7 @@ const features = [
       </svg>
     ),
     title: 'Scale Fast',
-    description: 'Launch dozens of unique products without the usual design bottleneck. Grow your catalogue effortlessly.',
+    description: 'Create dozens of unique products without the usual design bottleneck. Scale your catalogue effortlessly.',
   },
 ]
 
@@ -70,7 +70,7 @@ export default function AppsShowcase() {
             Tools built to grow your store
           </h2>
           <p className="section-subtitle">
-            Our flagship app is live now — with two more in active development.
+            Our first app is in development now — with two more on the way.
           </p>
         </div>
 

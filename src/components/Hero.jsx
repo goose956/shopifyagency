@@ -15,11 +15,11 @@ export default function Hero() {
             We build AI-powered apps that help Shopify stores grow.
           </h1>
           <p className="hero__subtitle">
-            Our first app automates print on demand with AI — and we have more in the pipeline. Purpose-built tools for merchants who want results, not complexity.
+            We're building AI-powered tools for Shopify merchants — starting with a print-on-demand app that automates product creation. Purpose-built for results, not complexity.
           </p>
           <div className="hero__actions">
             <a href="#apps" className="btn btn-primary btn-lg">
-              Explore Our Apps
+              See What We're Building
               <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
                 <path d="M4 10h12m0 0l-4-4m4 4l-4 4" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
               </svg>
