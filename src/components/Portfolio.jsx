@@ -21,13 +21,13 @@ const apps = [
     status: 'Early Development',
     statusColor: 'amber',
     description:
-      'AI-driven analytics and conversion optimisation for Shopify stores. Understand your customers better and turn insights into revenue.',
-    tags: ['Analytics', 'Conversion AI', 'Customer Insights', 'Revenue Optimisation'],
+      'Automated blog content fully optimised for LLMs and AI-powered search engines. Generates topic clusters around your products — 4 or 5 related posts all pointing back to a single product page — driving organic discovery and traffic.',
+    tags: ['LLM-Optimised Content', 'Automated Blogging', 'Topic Clusters', 'SEO & AEO'],
     icon: (
       <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
         <rect width="32" height="32" rx="8" fill="#7C3AED" />
-        <circle cx="16" cy="16" r="6" stroke="white" strokeWidth="2" fill="none" />
-        <path d="M16 10v-4M16 26v-4M10 16H6M26 16h-4" stroke="white" strokeWidth="2" strokeLinecap="round" />
+        <path d="M12 22h9" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+        <path d="M18.5 7.5a2.121 2.121 0 013 3L11 21l-4 1 1-4L18.5 7.5z" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
       </svg>
     ),
     progress: 65,
@@ -37,13 +37,13 @@ const apps = [
     status: 'Research Phase',
     statusColor: 'gray',
     description:
-      'Intelligent customer engagement and retention tools powered by AI. Personalised communications that drive repeat purchases.',
-    tags: ['Customer Retention', 'AI Messaging', 'Personalisation', 'Engagement'],
+      'AI-optimised pre and post-purchase offers that intelligently pair slow-moving products with your bestsellers at strategic discounts. Designed to increase your average order value (AOV) automatically.',
+    tags: ['Pre-Purchase Offers', 'Post-Purchase Upsell', 'AOV Optimisation', 'Smart Bundling'],
     icon: (
       <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
         <rect width="32" height="32" rx="8" fill="#0EA5E9" />
-        <path d="M16 8v8l4 4" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-        <circle cx="16" cy="16" r="7" stroke="white" strokeWidth="2" fill="none" />
+        <path d="M22.59 15.41l-7.17 7.17a2 2 0 01-2.83 0L6 16V8h8l8.59 8.59a2 2 0 010 2.82z" stroke="white" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+        <circle cx="11" cy="13" r="1" fill="white" />
       </svg>
     ),
     progress: 35,

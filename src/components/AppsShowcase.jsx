@@ -123,14 +123,14 @@ export default function AppsShowcase() {
               </div>
               <div className="apps__secret-icon">
                 <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
-                  <path d="M23 6l-9.5 9.5-5-5L1 18" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
-                  <path d="M17 6h6v6" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                  <path d="M12 20h9" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                  <path d="M16.5 3.5a2.121 2.121 0 013 3L7 19l-4 1 1-4L16.5 3.5z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                 </svg>
               </div>
               <h4 className="apps__secret-name">Project Aurora</h4>
               <p className="apps__secret-desc">
-                An AI-driven analytics and conversion tool that identifies exactly
-                where your store is losing sales — and fixes it automatically.
+                Automated blog content optimised for LLMs and AI search. Generates
+                topic clusters around your products to drive organic discovery.
               </p>
               <div className="apps__secret-status">
                 <div className="apps__secret-bar">
@@ -150,13 +150,14 @@ export default function AppsShowcase() {
               </div>
               <div className="apps__secret-icon">
                 <svg width="28" height="28" viewBox="0 0 24 24" fill="none">
-                  <path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                  <path d="M20.59 13.41l-7.17 7.17a2 2 0 01-2.83 0L2 12V2h10l8.59 8.59a2 2 0 010 2.82z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                  <line x1="7" y1="7" x2="7.01" y2="7" stroke="currentColor" strokeWidth="2" strokeLinecap="round"/>
                 </svg>
               </div>
               <h4 className="apps__secret-name">Project Beacon</h4>
               <p className="apps__secret-desc">
-                AI-powered customer engagement that sends the right message,
-                to the right customer, at the right time — fully automated.
+                AI-optimised pre and post-purchase offers that pair slow-moving
+                stock with bestsellers to increase your average order value.
               </p>
               <div className="apps__secret-status">
                 <div className="apps__secret-bar">
