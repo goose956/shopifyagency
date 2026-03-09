@@ -28,7 +28,7 @@ const features = [
       </svg>
     ),
     title: 'Direct Store Sync',
-    description: 'Products are created and published directly into your store — no CSV uploads or manual entry.','
+    description: 'Products are created and published directly into your store \u2014 no CSV uploads or manual entry.',
   },
   {
     icon: (

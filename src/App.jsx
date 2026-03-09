@@ -17,7 +17,7 @@ export default function App() {
     name: 'CodeStudio',
     applicationCategory: 'BusinessApplication',
     operatingSystem: 'Web',
-    description: 'AI-powered ecommerce apps that help merchants grow. Our print-on-demand tool — currently in development — automates product creation with AI, with more apps on the roadmap.','
+    description: 'AI-powered ecommerce apps that help merchants grow. Our print-on-demand tool \u2014 currently in development \u2014 automates product creation with AI, with more apps on the roadmap.',
     offers: {
       '@type': 'Offer',
       category: 'Software',

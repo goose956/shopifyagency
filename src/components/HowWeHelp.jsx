@@ -28,7 +28,7 @@ const pillars = [
       </svg>
     ),
     title: 'Publish Straight to Your Store',
-    description: 'No CSV uploads. No manual data entry. Our apps create products directly in your store, ready to sell.','
+    description: 'No CSV uploads. No manual data entry. Our apps create products directly in your store, ready to sell.',
   },
   {
     icon: (

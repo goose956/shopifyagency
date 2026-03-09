@@ -3,7 +3,7 @@ import './WhyChooseUs.css'
 const reasons = [
   {
     title: 'Ecommerce Specialists',
-    description: 'We don\'t build generic software. We build exclusively for ecommerce, so every feature is optimized for online stores.','
+    description: 'We don\'t build generic software. We build exclusively for ecommerce, so every feature is optimized for online stores.',
   },
   {
     title: 'Performance-Driven',
@@ -15,7 +15,7 @@ const reasons = [
   },
   {
     title: 'Fast, Human Support',
-    description: 'When you need help, you get a real person who understands ecommerce and our tools — not a chatbot runaround.','
+    description: 'When you need help, you get a real person who understands ecommerce and our tools \u2014 not a chatbot runaround.',
   },
   {
     title: 'Data-Backed Results',

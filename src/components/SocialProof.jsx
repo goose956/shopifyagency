@@ -9,7 +9,7 @@ export default function SocialProof() {
         </svg>
       ),
       label: 'Built for Ecommerce',
-      detail: 'Native App Stack','
+      detail: 'Native App Stack',
     },
     {
       icon: (
@@ -37,7 +37,7 @@ export default function SocialProof() {
         </svg>
       ),
       label: 'Store Ready',
-      detail: 'Meets App Store Standards','
+      detail: 'Meets App Store Standards',
     },
   ]
 
