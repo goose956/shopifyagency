@@ -15,7 +15,7 @@ export default function Hero() {
             We build AI-powered apps that help online stores grow.
           </h1>
           <p className="hero__subtitle">
-            We're building AI-powered tools for ecommerce merchants — starting with a print-on-demand app that automates product creation for platforms like Shopify. Purpose-built for results, not complexity.
+            We're building AI-powered tools for ecommerce merchants — starting with ListingLab, a print-on-demand app that automates product creation for platforms like Shopify. Purpose-built for results, not complexity.
           </p>
           <div className="hero__actions">
             <a href="#apps" className="btn btn-primary btn-lg">

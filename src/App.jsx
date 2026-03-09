@@ -33,13 +33,13 @@ export default function App() {
     <>
       <Helmet>
         <title>CodeStudio — AI-Powered Ecommerce Apps That Drive Results</title>
-        <meta name="description" content="We build AI-powered ecommerce apps that help merchants grow. Our print-on-demand tool is currently in development — with more apps on the roadmap." />
+        <meta name="description" content="We build AI-powered ecommerce apps that help merchants grow. ListingLab, our print-on-demand tool, is currently in development — with more apps on the roadmap." />
         <meta property="og:title" content="CodeStudio — AI-Powered Ecommerce Apps That Drive Results" />
-        <meta property="og:description" content="We build AI-powered ecommerce apps that help merchants grow. Our print-on-demand tool is in development — automating product creation with AI." />
+        <meta property="og:description" content="We build AI-powered ecommerce apps that help merchants grow. ListingLab, our print-on-demand tool, is in development — automating product creation with AI." />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="CodeStudio — AI-Powered Ecommerce Apps That Drive Results" />
-        <meta name="twitter:description" content="We build AI-powered ecommerce apps that help merchants grow. Our print-on-demand tool is in development — automating product creation with AI." />
+        <meta name="twitter:description" content="We build AI-powered ecommerce apps that help merchants grow. ListingLab, our print-on-demand tool, is in development — automating product creation with AI." />
         <script type="application/ld+json">
           {JSON.stringify(structuredData)}
         </script>

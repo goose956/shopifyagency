@@ -2,7 +2,7 @@ import './Portfolio.css'
 
 const apps = [
   {
-    name: 'Print on Demand AI',
+    name: 'ListingLab',
     status: 'In Development',
     statusColor: 'blue',
     description:

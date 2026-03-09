@@ -16,7 +16,7 @@ export default function About() {
               writing copy, managing workflows — and decided to fix it.
             </p>
             <p className="about__text">
-              Our first app — currently in development — tackles print on demand, automating the entire product creation
+              Our first app, ListingLab — currently in development — tackles print on demand, automating the entire product creation
               process with AI. Built to integrate with platforms like Shopify, with more tools on the roadmap — each designed to solve
               a specific, measurable problem for online stores.
             </p>

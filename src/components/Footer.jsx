@@ -21,7 +21,7 @@ export default function Footer() {
           <div className="footer__links-group">
             <h4 className="footer__heading">Apps</h4>
             <ul className="footer__links">
-              <li><a href="#apps">Print on Demand AI</a></li>
+              <li><a href="#apps">ListingLab</a></li>
               <li><a href="#apps">More Coming Soon</a></li>
               <li><a href="#how-we-help">How We Help</a></li>
             </ul>

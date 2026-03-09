@@ -79,7 +79,7 @@ export default function AppsShowcase() {
             <div className="apps__screenshot-wrapper">
               <img
                 src="/pod-screenshot.png"
-                alt="POD Design Generator - AI-powered print on demand product creation for ecommerce stores"
+                alt="ListingLab - AI-powered print on demand product creation for ecommerce stores"
                 className="apps__screenshot"
               />
             </div>
