@@ -6,8 +6,8 @@ const apps = [
     status: 'In Development',
     statusColor: 'blue',
     description:
-      'Automates the entire print-on-demand workflow — from AI-generated product images and optimised listing copy to one-click publishing on your Shopify store.',
-    tags: ['AI Image Generation', 'Automated Copy', 'Shopify Integration', 'Bulk Publishing'],
+      'Automates the entire print-on-demand workflow — from AI-generated product images and optimised listing copy to one-click publishing on your online store.',
+    tags: ['AI Image Generation', 'Automated Copy', 'Store Integration', 'Bulk Publishing'],'
     icon: (
       <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
         <rect width="32" height="32" rx="8" fill="#16A34A" />
@@ -59,10 +59,10 @@ export default function Portfolio() {
         <div className="section-header">
           <div className="badge">Our Portfolio</div>
           <h2 className="section-title" style={{ marginTop: 'var(--space-4)' }}>
-            Apps we're building for Shopify merchants
+            Apps we're building for ecommerce merchants
           </h2>
           <p className="section-subtitle">
-            Every tool is purpose-built for the Shopify ecosystem — designed to solve real problems and deliver measurable results.
+            Every tool is purpose-built for online stores — designed to solve real problems and deliver measurable results.
           </p>
         </div>
 

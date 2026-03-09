@@ -8,8 +8,8 @@ export default function SocialProof() {
           <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
         </svg>
       ),
-      label: 'Built on Shopify',
-      detail: 'Native Shopify App Stack',
+      label: 'Built for Ecommerce',
+      detail: 'Native App Stack','
     },
     {
       icon: (
@@ -36,8 +36,8 @@ export default function SocialProof() {
           <polyline points="22 4 12 14.01 9 11.01" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
         </svg>
       ),
-      label: 'Shopify Approved',
-      detail: 'Meets App Store Standards',
+      label: 'Store Ready',
+      detail: 'Meets App Store Standards','
     },
   ]
 

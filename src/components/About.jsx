@@ -11,18 +11,18 @@ export default function About() {
               A small team with a sharp focus
             </h2>
             <p className="about__text">
-              We're a team of developers and ecommerce specialists who build exclusively for Shopify.
+              We're a team of developers and ecommerce specialists who build tools for online stores.
               We saw merchants wasting hours on tasks that should be automated — creating product listings,
               writing copy, managing workflows — and decided to fix it.
             </p>
             <p className="about__text">
               Our first app — currently in development — tackles print on demand, automating the entire product creation
-              process with AI. And that's just the start. We have more tools on the roadmap, each designed to solve
-              a specific, measurable problem for Shopify stores.
+              process with AI. Built to integrate with platforms like Shopify, with more tools on the roadmap — each designed to solve
+              a specific, measurable problem for online stores.
             </p>
             <p className="about__text">
-              We're not a general software agency. We build for Shopify merchants, and only Shopify
-              merchants. Every line of code is written with your store in mind.
+              We're not a general software agency. We build for ecommerce merchants.
+              Every line of code is written with your store in mind.
             </p>
           </div>
           <div className="about__visual">
@@ -30,8 +30,8 @@ export default function About() {
               <div className="about__value">
                 <div className="about__value-number">01</div>
                 <div>
-                  <h4 className="about__value-title">Shopify Only</h4>
-                  <p className="about__value-desc">100% focused on the Shopify ecosystem</p>
+                  <h4 className="about__value-title">Ecommerce Focused</h4>
+                  <p className="about__value-desc">100% focused on helping online stores grow</p>
                 </div>
               </div>
               <div className="about__value">

@@ -27,8 +27,8 @@ const features = [
         <path d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
       </svg>
     ),
-    title: 'Direct Shopify Sync',
-    description: 'Products are created and published directly into your Shopify store — no CSV uploads or manual entry.',
+    title: 'Direct Store Sync',
+    description: 'Products are created and published directly into your store — no CSV uploads or manual entry.','
   },
   {
     icon: (
@@ -79,7 +79,7 @@ export default function AppsShowcase() {
             <div className="apps__screenshot-wrapper">
               <img
                 src="/pod-screenshot.png"
-                alt="POD Design Generator - AI-powered print on demand product creation for Shopify"
+                alt="POD Design Generator - AI-powered print on demand product creation for ecommerce stores"
                 className="apps__screenshot"
               />
             </div>

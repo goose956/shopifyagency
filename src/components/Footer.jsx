@@ -14,7 +14,7 @@ export default function Footer() {
               <span>CodeStudio</span>
             </a>
             <p className="footer__tagline">
-              AI-powered Shopify apps that drive revenue, save time, and help merchants grow.
+              AI-powered ecommerce apps that drive revenue, save time, and help merchants grow.
             </p>
           </div>
 

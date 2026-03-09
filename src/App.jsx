@@ -17,7 +17,7 @@ export default function App() {
     name: 'CodeStudio',
     applicationCategory: 'BusinessApplication',
     operatingSystem: 'Web',
-    description: 'AI-powered Shopify apps that help merchants grow. Our print-on-demand tool — currently in development — automates product creation with AI, with more apps on the roadmap.',
+    description: 'AI-powered ecommerce apps that help merchants grow. Our print-on-demand tool — currently in development — automates product creation with AI, with more apps on the roadmap.','
     offers: {
       '@type': 'Offer',
       category: 'Software',
@@ -32,14 +32,14 @@ export default function App() {
   return (
     <>
       <Helmet>
-        <title>CodeStudio — AI-Powered Shopify Apps That Drive Results</title>
-        <meta name="description" content="We build AI-powered Shopify apps that help merchants grow. Our print-on-demand tool is currently in development — with more apps on the roadmap." />
-        <meta property="og:title" content="CodeStudio — AI-Powered Shopify Apps That Drive Results" />
-        <meta property="og:description" content="We build AI-powered Shopify apps that help merchants grow. Our print-on-demand tool is in development — automating product creation with AI." />
+        <title>CodeStudio — AI-Powered Ecommerce Apps That Drive Results</title>
+        <meta name="description" content="We build AI-powered ecommerce apps that help merchants grow. Our print-on-demand tool is currently in development — with more apps on the roadmap." />
+        <meta property="og:title" content="CodeStudio — AI-Powered Ecommerce Apps That Drive Results" />
+        <meta property="og:description" content="We build AI-powered ecommerce apps that help merchants grow. Our print-on-demand tool is in development — automating product creation with AI." />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="CodeStudio — AI-Powered Shopify Apps That Drive Results" />
-        <meta name="twitter:description" content="We build AI-powered Shopify apps that help merchants grow. Our print-on-demand tool is in development — automating product creation with AI." />
+        <meta name="twitter:title" content="CodeStudio — AI-Powered Ecommerce Apps That Drive Results" />
+        <meta name="twitter:description" content="We build AI-powered ecommerce apps that help merchants grow. Our print-on-demand tool is in development — automating product creation with AI." />
         <script type="application/ld+json">
           {JSON.stringify(structuredData)}
         </script>

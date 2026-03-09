@@ -2,8 +2,8 @@ import './WhyChooseUs.css'
 
 const reasons = [
   {
-    title: 'Shopify Specialists',
-    description: 'We don\'t build for every platform. We build exclusively for Shopify, so every line of code is optimized for its ecosystem.',
+    title: 'Ecommerce Specialists',
+    description: 'We don\'t build generic software. We build exclusively for ecommerce, so every feature is optimized for online stores.','
   },
   {
     title: 'Performance-Driven',
@@ -15,7 +15,7 @@ const reasons = [
   },
   {
     title: 'Fast, Human Support',
-    description: 'When you need help, you get a real person who understands both Shopify and our tools — not a chatbot runaround.',
+    description: 'When you need help, you get a real person who understands ecommerce and our tools — not a chatbot runaround.','
   },
   {
     title: 'Data-Backed Results',
@@ -37,7 +37,7 @@ export default function WhyChooseUs() {
             We do one thing, and we do it well
           </h2>
           <p className="section-subtitle">
-            Shopify apps built by people who understand ecommerce — not a general software shop.
+            Ecommerce apps built by people who understand your business — not a general software shop.
           </p>
         </div>
 

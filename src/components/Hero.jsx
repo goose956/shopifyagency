@@ -9,13 +9,13 @@ export default function Hero() {
             <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
               <path d="M8 1l2.09 4.26L15 5.74l-3.5 3.42.82 4.84L8 11.67 3.68 14l.82-4.84L1 5.74l4.91-.48L8 1z" fill="currentColor"/>
             </svg>
-            Built for Shopify Merchants
+            Built for Ecommerce Merchants
           </div>
           <h1 className="hero__title">
-            We build AI-powered apps that help Shopify stores grow.
+            We build AI-powered apps that help online stores grow.
           </h1>
           <p className="hero__subtitle">
-            We're building AI-powered tools for Shopify merchants — starting with a print-on-demand app that automates product creation. Purpose-built for results, not complexity.
+            We're building AI-powered tools for ecommerce merchants — starting with a print-on-demand app that automates product creation for platforms like Shopify. Purpose-built for results, not complexity.
           </p>
           <div className="hero__actions">
             <a href="#apps" className="btn btn-primary btn-lg">

@@ -27,8 +27,8 @@ const pillars = [
         <path d="M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.77-3.77a6 6 0 01-7.94 7.94L6.73 20.2a2.12 2.12 0 01-3-3l6.73-6.73A6 6 0 0114.7 6.3z" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
       </svg>
     ),
-    title: 'Publish Straight to Shopify',
-    description: 'No CSV uploads. No manual data entry. Our apps create products directly in your Shopify store, ready to sell.',
+    title: 'Publish Straight to Your Store',
+    description: 'No CSV uploads. No manual data entry. Our apps create products directly in your store, ready to sell.','
   },
   {
     icon: (

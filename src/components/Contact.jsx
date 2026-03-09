@@ -40,7 +40,7 @@ export default function Contact() {
           <div className="contact__info">
             <div className="badge">Get In Touch</div>
             <h2 className="section-title" style={{ marginTop: 'var(--space-4)' }}>
-              Start improving your Shopify store today
+              Start improving your online store today
             </h2>
             <p className="contact__desc">
               Whether you want to explore our apps, need a custom solution, or just have a question
