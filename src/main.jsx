@@ -6,6 +6,7 @@ import App from './App'
 import Admin from './pages/Admin'
 import Login from './pages/Login'
 import PrivacyPolicy from './pages/PrivacyPolicy'
+import TermsOfService from './pages/TermsOfService'
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -15,6 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         <Routes>
           <Route path="/" element={<App />} />
           <Route path="/privacy" element={<PrivacyPolicy />} />
+          <Route path="/terms" element={<TermsOfService />} />
           <Route path="/admin" element={<Admin />} />
           <Route path="/admin/login" element={<Login />} />
         </Routes>
